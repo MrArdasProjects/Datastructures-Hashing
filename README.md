@@ -22,7 +22,6 @@ can use the given template method to measure the running time of different hashi
 implementations. 
 
 long startTime = System.nanoTime();
-// The operation
 long endTime = System.nanoTime();
 long elapsedTime = endTime - startTime;
 
